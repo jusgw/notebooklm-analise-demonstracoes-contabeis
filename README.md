@@ -19,6 +19,7 @@ Este projeto teve como principais objetivos:
 - Desenvolver um conjunto de prompts reutilizáveis para futuras consultas e revisões.
 
 Curadoria de Fontes
+
 As fontes foram selecionadas buscando combinar materiais acadêmicos e conteúdos didáticos para compreender os fundamentos do Balanço Patrimonial, do Balancete de Verificação, da Demonstração do Resultado do Exercício (DRE) e da análise financeira. A diversidade de formatos permitiu comparar explicações, validar conceitos e utilizar o NotebookLM como ferramenta de aprendizagem ativa baseada em diferentes perspectivas.
 
 https://youtu.be/DH3PD5fGBOk?si=JhDt-WOd7ia5ApX7 | Youtube | Complementar os conceitos apresentados nos materiais escritos por meio de explicações práticas. |
