@@ -1,7 +1,9 @@
 IA Aplicada à Análise das Demonstrações Contábeis
 
 Contexto e Objetivos
+
 Contexto
+
 O objetivo deste projeto foi explorar o uso do NotebookLM como ferramenta de aprendizagem ativa aplicada à análise das demonstrações contábeis. O tema foi escolhido por estar diretamente relacionado à minha formação em Ciências Contábeis e à minha experiência profissional com planilhamento e organização de balanços patrimoniais.
 
 Durante o desenvolvimento do projeto, utilizei diferentes fontes de estudo para compreender como o Balanço Patrimonial e a Demonstração do Resultado do Exercício (DRE) podem ser interpretados de forma integrada, permitindo avaliar a situação patrimonial, financeira e econômica de uma empresa.
@@ -9,6 +11,7 @@ Durante o desenvolvimento do projeto, utilizei diferentes fontes de estudo para 
 Além da compreensão dos conceitos contábeis, o projeto buscou demonstrar como a Inteligência Artificial pode auxiliar na organização do conhecimento, comparação entre fontes, elaboração de resumos e construção de materiais de revisão, tornando o processo de aprendizagem mais eficiente e estruturado.
 
 Objetivos
+
 Este projeto teve como principais objetivos:
 - Compreender a estrutura e a finalidade do Balanço Patrimonial e da DRE; 
 - Entender a relação entre Ativo, Passivo e Patrimônio Líquido; 
@@ -29,7 +32,7 @@ https://github.com/jusgw/notebooklm-analise-demonstracoes-contabeis/blob/main/An
 https://github.com/jusgw/notebooklm-analise-demonstracoes-contabeis/blob/main/Balancete%20de%20Verificac%CC%A7a%CC%83o.pdf | PDF | Entender a finalidade do balancete e sua relação com as demonstrações contábeis. |
 
 Engenharia de Prompts
-Estratégia utilizada
+
 Ao invés de utilizar perguntas isoladas, os prompts foram organizados em categorias que simulam uma sequência de aprendizagem, iniciando pelos conceitos fundamentais, passando pela estrutura das demonstrações contábeis e evoluindo para aplicações práticas e análise financeira.
 Essa organização permitiu utilizar o NotebookLM não apenas como uma ferramenta de resumo, mas como um ambiente de estudo capaz de relacionar informações provenientes de diferentes fontes.
 
@@ -75,6 +78,7 @@ Prompts utilizados:
 Resultado obtido: As respostas apresentaram critérios utilizados por profissionais para avaliar riscos, capacidade de pagamento, solvência e estrutura financeira das organizações.
 
 Cicatrizes (Troubleshooting)
+
 Durante os testes, foram identificados alguns pontos importantes:
 - Prompts muito amplos geravam respostas excessivamente longas; 
 - Dividir as perguntas em categorias tornou o estudo mais organizado; 
@@ -83,6 +87,7 @@ Durante os testes, foram identificados alguns pontos importantes:
 - Utilizar exclusivamente as fontes anexadas aumentou a confiabilidade das respostas e permitiu rastrear as referências utilizadas pelo NotebookLM. 
 
 Miniguia de Estudo
+
 O Balanço Patrimonial representa a posição patrimonial e financeira da empresa em determinada data, enquanto a DRE demonstra o desempenho econômico ao longo de um período. A interpretação conjunta dessas demonstrações permite avaliar liquidez, endividamento, rentabilidade e capacidade de geração de resultados, fornecendo informações essenciais para gestores, investidores e instituições financeiras.
 
 Os ativos representam os bens e direitos da empresa; os passivos correspondem às obrigações perante terceiros; e o patrimônio líquido representa os recursos próprios dos proprietários. A relação entre esses elementos é expressa pela Equação Fundamental da Contabilidade: Ativo = Passivo + Patrimônio Líquido
@@ -90,6 +95,7 @@ Os ativos representam os bens e direitos da empresa; os passivos correspondem à
 Além da compreensão das demonstrações, o estudo evidenciou a importância dos indicadores financeiros, da análise horizontal e vertical e da integração entre diferentes informações para uma avaliação financeira consistente.
 
 Glossário
+
 Ativo: Bens e direitos controlados pela empresa.
 Passivo: Obrigações assumidas perante terceiros.
 Patrimônio Líquido: Recursos próprios pertencentes aos sócios.
