@@ -19,6 +19,13 @@ Este projeto teve como principais objetivos:
 - Desenvolver um conjunto de prompts reutilizáveis para futuras consultas e revisões.
 
 Curadoria de Fontes
+As fontes foram selecionadas buscando combinar materiais acadêmicos e conteúdos didáticos para compreender os fundamentos do Balanço Patrimonial, do Balancete de Verificação, da Demonstração do Resultado do Exercício (DRE) e da análise financeira. A diversidade de formatos permitiu comparar explicações, validar conceitos e utilizar o NotebookLM como ferramenta de aprendizagem ativa baseada em diferentes perspectivas.
+
+https://youtu.be/DH3PD5fGBOk?si=JhDt-WOd7ia5ApX7 | Youtube | Complementar os conceitos apresentados nos materiais escritos por meio de explicações práticas. |
+https://www.youtube.com/live/KZjRVsFxkRQ?si=rLAU1xgFtU3Ot1aK | Youtube | Reforçar a interpretação do Balanço Patrimonial e sua aplicação na análise financeira. |
+https://github.com/jusgw/notebooklm-analise-demonstracoes-contabeis/blob/main/Balanc%CC%A7o%20Patrimonial.pdf | PDF | Compreender a estrutura, composição e classificação das contas do Balanço Patrimonial. |
+https://github.com/jusgw/notebooklm-analise-demonstracoes-contabeis/blob/main/Ana%CC%81lise%20de%20Balanc%CC%A7os.pdf | PDF | Estudar técnicas de análise financeira, indicadores e interpretação das demonstrações contábeis. |
+https://github.com/jusgw/notebooklm-analise-demonstracoes-contabeis/blob/main/Balancete%20de%20Verificac%CC%A7a%CC%83o.pdf | PDF | Entender a finalidade do balancete e sua relação com as demonstrações contábeis. |
 
 Engenharia de Prompts
 Estratégia utilizada
